@@ -1,7 +1,7 @@
 # social-media-data-analysis
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.
 </br>
-
+</br>
 ### Dataset</br>
 #
 This project involves analyzing a dataset of social media posts to answer a set of questions. The dataset is a CSV file called social_media_data.csv The dataset contains the following columns: </br>
