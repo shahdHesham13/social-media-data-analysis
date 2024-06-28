@@ -1,6 +1,7 @@
 # social-media-data-analysis
 An assessment prepared by Intern2Grow, for its Data Analyst Virtual Internship Program.
 </br>
+</br>
 The objective is to understand the impact of the company's posts on social media platforms like Facebook, Instagram, and Twitter, and determine which platform deserves investment.</br>
 It is required to answer some important questions that would benefit decision-makers with valuable insights for strategic decisions, highlighting where to focus advertising efforts for maximum engagement and revenue growth.</br>
 also the project involved data cleaning, where I addressed reasons for missing data and handled empty values.</br>
